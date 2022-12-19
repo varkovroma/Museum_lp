@@ -1,3 +1,3 @@
-np# Museum 2 landing page
+Museum 2 landing page
   [DEMO LINK](https://varkovroma.github.io/Museum_2/).
 
